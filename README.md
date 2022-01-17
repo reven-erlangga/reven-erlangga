@@ -40,7 +40,7 @@
 
 [website]: https://reven-erlangga.netlify.app
 [dribbble]: https://dribbble.com/reven_erlangga
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%RevenErlangga&screen_name=RevenErlangga
+[twitter]: https://twitter.com/RevenErlangga
 [youtube]: https://www.youtube.com/channel/UCmX0A6hZcnIsHAiXOQsJ0pQ
 [linkedin]: https://www.linkedin.com/in/reven-erlangga
 [github]: https://github.com/reven-erlangga

@@ -20,7 +20,7 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Reven Erlangga | Website" width="28px" src="https://img.icons8.com/color/24/000000/domain--v1.png" />][website]
+[<img align="left" alt="Reven Erlangga | Website" width="28px" src="https://img.icons8.com/ultraviolet/40/000000/domain.png" />][website]
 [<img align="left" alt="Reven Erlangga | YouTube" width="28px" src="https://img.icons8.com/color/24/000000/youtube-play--v1.png" />][youtube]
 [<img align="left" alt="Reven Erlangga | Twitter" width="28px" src="https://img.icons8.com/color/24/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Reven Erlangga | LinkedIn" width="28px" src="https://img.icons8.com/color/24/000000/linkedin--v1.png" />][linkedin]

@@ -3,7 +3,7 @@
 
 [![Youtube](https://img.shields.io/static/v1?label=RevenErlangga&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/RevenErlangga?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga-001a1b137)][linkedin]
+[![Linkedin: RevenErlangga](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga)][linkedin]
 
 
 
@@ -40,7 +40,7 @@
 [dribbble]: https://dribbble.com/reven_erlangga
 [twitter]: https://twitter.com/RevenErlangga
 [youtube]: https://www.youtube.com/channel/UCmX0A6hZcnIsHAiXOQsJ0pQ
-[linkedin]: https://www.linkedin.com/in/reven-erlangga
+[linkedin]: https://www.linkedin.com/in/reven-erlangga-001a1b137
 [github]: https://github.com/reven-erlangga
 [instagram]: https://www.instagram.com/reven.erlangga
 [facebook]: https://www.facebook.com/reven.ferlian

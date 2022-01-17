@@ -20,14 +20,14 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Reven Erlangga | Website" width="28px" src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" />][website]
-[<img align="left" alt="Reven Erlangga | YouTube" width="28px" src="https://img.icons8.com/material-outlined/24/000000/youtube-play--v1.png" />][youtube]
+[<img align="left" alt="Reven Erlangga | Website" width="28px" src="https://img.icons8.com/color/24/000000/domain--v1.png" />][website]
+[<img align="left" alt="Reven Erlangga | YouTube" width="28px" src="https://img.icons8.com/color/24/000000/youtube-play--v1.png" />][youtube]
 [<img align="left" alt="Reven Erlangga | Twitter" width="28px" src="https://img.icons8.com/ios/50/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="Reven Erlangga | LinkedIn" width="28px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" />][linkedin]
-[<img align="left" alt="Reven Erlangga | Facebook" width="28px" src="https://img.icons8.com/material-outlined/24/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Reven Erlangga | LinkedIn" width="28px" src="https://img.icons8.com/color/24/000000/linkedin--v1.png" />][linkedin]
+[<img align="left" alt="Reven Erlangga | Facebook" width="28px" src="https://img.icons8.com/color/24/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="Reven Erlangga | Medium" width="28px" src="https://img.icons8.com/ios/50/000000/medium-new.png" />][medium]
-[<img align="left" alt="Reven Erlangga | Dribbble" width="28px" src="https://img.icons8.com/wired/64/000000/dribbble.png" />][dribbble]
-[<img align="left" alt="Reven Erlangga | Instagram" width="28px" src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="Reven Erlangga | Dribbble" width="28px" src="https://img.icons8.com/office/50/000000/dribbble.png" />][dribbble]
+[<img align="left" alt="Reven Erlangga | Instagram" width="28px" src="https://img.icons8.com/color/24/000000/instagram-new--v1.png" />][instagram]
 
 <br />
 <br />

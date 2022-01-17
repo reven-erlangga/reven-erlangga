@@ -3,7 +3,7 @@
 
 [![Youtube](https://img.shields.io/static/v1?label=RevenErlangga&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/RevenErlangga?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga/)][linkedin]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga-001a1b137)][linkedin]
 
 
 

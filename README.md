@@ -1,1 +1,51 @@
-# RevenErlangga
+<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Johannes Milke!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+
+
+[![Youtube](https://img.shields.io/static/v1?label=RevenErlangga&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/RevenErlangga?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![GitHub followers](https://img.shields.io/github/followers/RevenErlangga?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga/)][linkedin]
+
+
+
+- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
+- ⚡ &ensp;Fun fact: I love reading & podcasts
+- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+
+### Support Me on
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R27Z8R8)
+
+### Connect With Me
+
+[<img align="left" alt="Reven Erlangga | Website" width="28px" src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" />][website]
+[<img align="left" alt="Reven Erlangga | YouTube" width="28px" src="https://img.icons8.com/material-outlined/24/000000/youtube-play--v1.png" />][youtube]
+[<img align="left" alt="Reven Erlangga | Twitter" width="28px" src="https://img.icons8.com/ios/50/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="Reven Erlangga | LinkedIn" width="28px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" />][linkedin]
+[<img align="left" alt="Reven Erlangga | Facebook" width="28px" src="https://img.icons8.com/material-outlined/24/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Reven Erlangga | Medium" width="28px" src="https://img.icons8.com/ios/50/000000/medium-new.png" />][medium]
+[<img align="left" alt="Reven Erlangga | Dribbble" width="28px" src="https://img.icons8.com/wired/64/000000/dribbble.png" />][dribbble]
+[<img align="left" alt="Reven Erlangga | Instagram" width="28px" src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" />][instagram]
+
+<br />
+<br />
+
+### Languages and Tools
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
+[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+
+[website]: https://reven-erlangga.netlify.app
+[dribbble]: https://dribbble.com/reven_erlangga
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%RevenErlangga&screen_name=RevenErlangga
+[youtube]: https://www.youtube.com/channel/UCmX0A6hZcnIsHAiXOQsJ0pQ
+[linkedin]: https://www.linkedin.com/in/reven-erlangga
+[github]: https://github.com/reven-erlangga
+[instagram]: https://www.instagram.com/reven.erlangga
+[facebook]: https://www.facebook.com/reven.ferlian
+[medium]: https://medium.com/@reven.erlangga

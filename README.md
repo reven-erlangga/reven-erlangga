@@ -31,13 +31,13 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][]
-[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][]
-[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][]
-[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />][]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][website]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][website]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][website]
+[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][website]
+[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][website]
+[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />][website]
+[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
 [website]: https://reven-erlangga.netlify.app
 [dribbble]: https://dribbble.com/reven_erlangga

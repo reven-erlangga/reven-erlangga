@@ -42,12 +42,15 @@
 <br />
 <br />
 
+---
+
 ### 📕 Latest My Article
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2" alt="Recent Article 1"> 
-<!-- BLOG-POST-LIST:END -->
+➡️ [more article...](https://medium.com/@reven.erlangga)
+<!-- BLOG-POST-LIST -->
 
 [null]: #
 [website]: https://reven-erlangga.netlify.app

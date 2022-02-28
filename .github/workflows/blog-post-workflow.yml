@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: reven-erlangga/blog-post-workflow@master
+      - uses: reven-erlangga/reven-erlangga@master
         with:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated readme with the latest medium article"

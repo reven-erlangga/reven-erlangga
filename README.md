@@ -53,6 +53,14 @@
 ➡️ [more article...](https://medium.com/@reven.erlangga)
 <!-- BLOG-POST-LIST -->
 
+<br />
+<br />
+
+---
+
+### 💻 My Activity
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reven-erlangga&show_icons=true)
+
 [null]: #
 [website]: https://reven-erlangga.netlify.app
 [dribbble]: https://dribbble.com/reven_erlangga

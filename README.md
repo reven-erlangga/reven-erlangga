@@ -41,7 +41,7 @@
 
 ### 📕 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga" alt="Recent Article 0"> 
 <!-- BLOG-POST-LIST:END -->
 
 [null]: #

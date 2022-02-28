@@ -55,11 +55,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 ### 💻 My Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reven-erlangga&show_icons=true)
 

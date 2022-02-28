@@ -45,8 +45,8 @@
 ---
 
 ### 📕 Latest My Article
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ---
 

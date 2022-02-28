@@ -45,10 +45,20 @@
 ---
 
 ### 📕 Latest My Article
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2" alt="Recent Article 1"> 
+<br />
+➡️ [more article...](https://medium.com/@reven.erlangga)
+<!-- BLOG-POST-LIST -->
 
 ---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ### 💻 My Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reven-erlangga&show_icons=true)

@@ -39,9 +39,14 @@
 [<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />][null]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][null]
 
-### 📕 Latest Blog Post
+<br />
+<br />
+
+### 📕 Latest My Article
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2" alt="Recent Article 1"> 
 <!-- BLOG-POST-LIST:END -->
 
 [null]: #

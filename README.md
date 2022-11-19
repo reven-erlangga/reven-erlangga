@@ -66,6 +66,16 @@
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/reven_erlangga) 
 
-  
+
+[website]: https://reven-erlangga.netlify.app
+[dribbble]: https://dribbble.com/reven_erlangga
+[twitter]: https://twitter.com/RevenErlangga
+[youtube]: https://www.youtube.com/channel/UCmX0A6hZcnIsHAiXOQsJ0pQ
+[linkedin]: https://www.linkedin.com/in/reven-erlangga-001a1b137
+[github]: https://github.com/reven-erlangga
+[instagram]: https://www.instagram.com/reven.erlangga
+[facebook]: https://www.facebook.com/reven.ferlian
+[medium]: https://medium.com/@reven.erlangga
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

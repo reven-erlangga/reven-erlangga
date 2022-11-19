@@ -5,66 +5,67 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RevenErlangga?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Linkedin: RevenErlangga](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga)][linkedin]
 
+# 💫 About Me:
+🔭 I’m currently working on [**Youtube**][youtube] and Corporate!<br>
+👯 I’m looking to collaborate on with other content creators<br>
+🤝 I’m looking for help with  about programming<br>
+🌱 I’m currently learning Flutter ❤️, MERN Stack and make some game using Unity<br>
+💬 Ask me about Flutter and Node JS<br>
+⚡ Fun fact, I'm wibu
 
 
-- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
-- 🌱 &ensp;I’m currently learning Flutter ❤️ and make some game
-- 👯 &ensp;I’m looking to collaborate with other content creators
-- 📫 &ensp;How to reach me: [**Twitter**][twitter]
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reven.ferlian) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reven.erlangga) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reven-ferlian-erlangga) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@reven.erlangga) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@reven.erlangga) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RevenErlangga) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCmX0A6hZcnIsHAiXOQsJ0pQ) 
 
-### Support Me on
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R27Z8R8)
-
-### Connect With Me
-
-[<img align="left" alt="Reven Erlangga | Website" width="28px" src="https://img.icons8.com/ultraviolet/40/000000/domain.png" />][website]
-[<img align="left" alt="Reven Erlangga | YouTube" width="28px" src="https://img.icons8.com/color/24/000000/youtube-play--v1.png" />][youtube]
-[<img align="left" alt="Reven Erlangga | Twitter" width="28px" src="https://img.icons8.com/color/24/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="Reven Erlangga | LinkedIn" width="28px" src="https://img.icons8.com/color/24/000000/linkedin--v1.png" />][linkedin]
-[<img align="left" alt="Reven Erlangga | Facebook" width="28px" src="https://img.icons8.com/color/24/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Reven Erlangga | Medium" width="28px" src="https://img.icons8.com/color-glass/48/000000/medium-logo.png" />][medium]
-[<img align="left" alt="Reven Erlangga | Dribbble" width="28px" src="https://img.icons8.com/office/50/000000/dribbble.png" />][dribbble]
-[<img align="left" alt="Reven Erlangga | Instagram" width="28px" src="https://img.icons8.com/color/24/000000/instagram-new--v1.png" />][instagram]
-
-<br />
-<br />
-
-### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][null]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][null]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][null]
-[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][null]
-[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][null]
-[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />][null]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][null]
-
-<br />
-<br />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=reven-erlangga&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reven-erlangga&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=reven-erlangga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📕 Latest My Article
-<!-- BLOG-POST-LIST -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@reven.erlangga/2" alt="Recent Article 1"> 
-<br />
-➡️ [more article...](https://medium.com/@reven.erlangga)
-<!-- BLOG-POST-LIST -->
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/reven_erlangga) 
 
----
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 💻 My Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reven-erlangga&show_icons=true)
-
-[null]: #
-[website]: https://reven-erlangga.netlify.app
-[dribbble]: https://dribbble.com/reven_erlangga
-[twitter]: https://twitter.com/RevenErlangga
-[youtube]: https://www.youtube.com/channel/UCmX0A6hZcnIsHAiXOQsJ0pQ
-[linkedin]: https://www.linkedin.com/in/reven-erlangga-001a1b137
-[github]: https://github.com/reven-erlangga
-[instagram]: https://www.instagram.com/reven.erlangga
-[facebook]: https://www.facebook.com/reven.ferlian
-[medium]: https://medium.com/@reven.erlangga

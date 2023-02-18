@@ -60,6 +60,7 @@
 <!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  -->
 
 # 📊 GitHub Stats:
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reven-erlangga&hide=javascript,css,scss,html&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false)<br/>
 
 ---

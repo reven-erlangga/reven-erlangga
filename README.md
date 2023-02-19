@@ -61,9 +61,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Github stat language" width="45" height="45" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" width="45" height="45" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" width="45" height="45" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Github stat language" height="100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" height="100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" height="100" />
 </p>
 
 <br/> <br /> <br/>

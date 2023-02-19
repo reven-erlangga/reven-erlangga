@@ -64,8 +64,8 @@
   <a href="https://github.com/reven-erlangga">
     <img width="39%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Github stat language" />
     <img width="60%" height="200" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" />
-    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" />
-    <img width="99%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&theme=midnight-purple&no-bg=true" alt="Trophy" width="48%" />
+    <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" />
+    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&theme=midnight-purple&no-bg=true" alt="Trophy" width="48%" />
   </a>
 </p> <br /> <br /> <br/>
 

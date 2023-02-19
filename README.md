@@ -61,16 +61,13 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Github stat language" height="200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" height="200" />
-</p> <br />
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" height="200" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&theme=midnight-purple&no-bg=true" alt="Trophy" width="48%" height="200" />
-</p>
-
-<br/> <br /> <br/>
+  <a href="https://github.com/bagasstrongman">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Github stat language" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&theme=midnight-purple&no-bg=true" alt="Trophy" width="48%" />
+  </a>
+</p> <br /> <br /> <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reven-erlangga&icon=0&color=0)](https://visitcount.itsvg.in)

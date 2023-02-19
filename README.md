@@ -66,8 +66,8 @@
 </p> <br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" height="200" />
-  <img src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&theme=juicyfresh&no-bg=true" alt="Trophy" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" width="50%" height="200" />
+  <img src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&theme=juicyfresh&no-bg=true" alt="Trophy" width="50%" height="200" />
 </p>
 
 <br/> <br /> <br/>

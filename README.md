@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RevenErlangga?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Linkedin: RevenErlangga](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga)][linkedin]
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on [**Youtube**][youtube] and Corporate!<br>
 👯 I’m looking to collaborate on with other content creators<br>
 🤝 I’m looking for help with  about programming<br>
@@ -15,7 +15,7 @@
 
  <br />
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reven.ferlian) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reven.erlangga) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reven-ferlian-erlangga) 
@@ -26,7 +26,7 @@
 
  <br />
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Programming Language
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -64,7 +64,7 @@
 
  <br />
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
  <img width="53%" height="205" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
  <img width="46.5%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" /> <br /> <br />

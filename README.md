@@ -62,8 +62,8 @@
 # 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/reven-erlangga">
-    <img width="61.5%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Github stat language" />
-    <img width="38%" height="200" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" /> <br /> <br />
+    <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
+    <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" /> <br /> <br />
     <img width="49.5%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=reven-erlangga&theme=midnight-purple&hide_border=false" alt="Streak Stat" />
     <img width="50%" height="200" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&theme=midnight-purple&no-bg=true" alt="Trophy" />
   </a>

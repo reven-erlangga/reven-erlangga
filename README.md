@@ -78,6 +78,7 @@
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/reven_erlangga) 
+[![Ko-Fi](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/revenerlangga/tip) 
 
 
 [website]: https://reven-erlangga.netlify.app

@@ -14,7 +14,7 @@
 ⚡ Fun fact, I'm wibu
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reven.ferlian) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reven.erlangga) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reven-ferlian-erlangga) 
@@ -22,6 +22,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@reven.erlangga) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RevenErlangga) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCmX0A6hZcnIsHAiXOQsJ0pQ) 
+
+ <br /> <br />
 
 # 💻 Tech Stack:
 ### Programming Language
@@ -59,6 +61,8 @@
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  -->
 <!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  -->
 
+ <br /> <br />
+
 # 📊 GitHub Stats:
 <p align="center">
     <img width="53%" height="205" src="https://github-readme-stats.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
@@ -69,6 +73,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reven-erlangga&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ <br /> <br />
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/reven_erlangga) 

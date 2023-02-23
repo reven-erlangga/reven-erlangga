@@ -25,6 +25,11 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCmX0A6hZcnIsHAiXOQsJ0pQ) 
 
  <br />
+ 
+ ## 📞 Contact:
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:reven.erlangga@gmail.com) 
+ 
+ <br />
 
 ## 💻 Tech Stack:
 #### Programming Language

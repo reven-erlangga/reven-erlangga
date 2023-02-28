@@ -5,6 +5,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RevenErlangga?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Linkedin: RevenErlangga](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/reven-erlangga)][linkedin]
 
+<br />
+
+Glad to see you here! <br />
+I’m a backend developer especially golang language, but i like flutter and node js too.
+
+I specialize in building robust backends that do all the heavy lifting for your app or website. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers and optimization code.
+
+<br />
+
 ## 💫 About Me:
 🔭 I’m currently working on [**Youtube**][youtube] and Corporate!<br>
 👯 I’m looking to collaborate on with other content creators<br>
@@ -59,21 +68,47 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  -->
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  -->
-<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
-<!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  -->
-<!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  -->
-<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  -->
 
  <br />
 
 ## 📊 GitHub Stats:
+
+<table style="width: 100%">
+ <tbody>
+  <tr>
+   <td align="center">My Commit</td>
+   <td align="center">Most Used Languages</td>
+  </tr>
+  <tr>
+   <td align="center">
+    <img height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
+   </td>
+   <td align="center">
+     <img height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Trophy
+   </td>
+   <td align="center">
+    Streak Status
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    <img height="50%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&column=4&theme=onedark" alt="trophy" />
+   </td>
+   <td align="center">
+    <img height="50%" src="https://streak-stats.demolab.com/?user=reven-erlangga&theme=dark" alt="streak status" />
+   </td>
+  </tr>
+ </tbody>
+</table>
+
 <p align="center">
- <img width="53%" height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
- <img width="46.5%" height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
- <img width="99%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app?username=reven-erlangga&theme=midnight-purple&no-bg=true" alt="Trophy" />
+ 
+
  
  [![](https://visitcount.itsvg.in/api?id=reven-erlangga&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>

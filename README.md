@@ -81,10 +81,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
    <td align="center">
-    <img height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
+    <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reven-erlangga&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
    </td>
    <td align="center">
-     <img height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=reven-erlangga&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
+     <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=reven-erlangga&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
    </td>
   </tr>
   <tr>
@@ -97,10 +97,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
    <td align="center">
-    <img height="50%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&column=4&theme=onedark" alt="trophy" />
+    <img height="60%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&column=4&theme=onedark" alt="trophy" />
    </td>
    <td align="center">
-    <img height="50%" src="https://streak-stats.demolab.com/?user=reven-erlangga&theme=dark" alt="streak status" />
+    <img height="60%" src="https://streak-stats.demolab.com/?user=reven-erlangga&theme=dark" alt="streak status" />
    </td>
   </tr>
  </tbody>

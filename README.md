@@ -125,7 +125,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 [dribbble]: https://dribbble.com/reven_erlangga
 [twitter]: https://twitter.com/RevenErlangga
 [youtube]: https://www.youtube.com/channel/UCmX0A6hZcnIsHAiXOQsJ0pQ
-[linkedin]: https://www.linkedin.com/in/reven-erlangga-001a1b137
+[linkedin]: https://www.linkedin.com/in/reven-ferlian-erlangga
 [github]: https://github.com/reven-erlangga
 [instagram]: https://www.instagram.com/reven.erlangga
 [facebook]: https://www.facebook.com/reven.ferlian

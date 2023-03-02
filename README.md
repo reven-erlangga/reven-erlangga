@@ -108,7 +108,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <p align="center">
  
-
  
  [![](https://visitcount.itsvg.in/api?id=reven-erlangga&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>

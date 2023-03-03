@@ -77,7 +77,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
  <tbody>
   <tr>
    <td align="center">My Commit</td>
-   <td align="center">Most Used Languages</td>
+   <td align="center">Streak Status</td>
   </tr>
   <tr>
    <td align="center">
@@ -99,7 +99,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
    <td align="center" colspan="2">
-    Streak Status
+    Most Used Languages
    </td>
   </tr>
   <tr>

@@ -99,6 +99,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
    <td align="center" colspan="2">
     <img height="60%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&column=4&theme=onedark" alt="trophy" />
    </td>
+  </tr>
+  <tr>
    <td align="center" colspan="2">
      <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=reven-erlangga&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
    </td>

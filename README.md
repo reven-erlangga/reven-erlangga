@@ -94,7 +94,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
    <td align="center" colspan="2">
-    <img height="80%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&column=6&theme=onedark" alt="trophy" />
+    <img height="80%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&column=7&theme=onedark" alt="trophy" />
    </td>
   </tr>
   <tr>

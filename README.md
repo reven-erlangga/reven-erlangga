@@ -88,16 +88,18 @@ I specialize in building robust backends that do all the heavy lifting for your 
    </td>
   </tr>
   <tr>
-   <td align="center">
+   <td align="center" colspan="2">
     Trophy
-   </td>
-   <td align="center">
-    Streak Status
    </td>
   </tr>
   <tr>
    <td align="center" colspan="2">
     <img height="60%" src="https://github-profile-trophy.vercel.app/?username=reven-erlangga&column=4&theme=onedark" alt="trophy" />
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="2">
+    Streak Status
    </td>
   </tr>
   <tr>

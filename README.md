@@ -8,7 +8,7 @@
 <br />
 
 Glad to see you here! <br />
-I’m a backend developer especially golang language, but i like flutter and node js too and sometime iam build a game using Unity Engine.
+I’m a backend developer especially Nest JS Framework, but i like flutter and golang too and sometime iam build a game using Unity Engine.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers and optimization code.
 

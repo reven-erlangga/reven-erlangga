@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCmX0A6hZcnIsHAiXOQsJ0pQ">Reven Erlangga!</a></h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Backend Developer | Golang</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=RevenErlangga&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/RevenErlangga?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
@@ -8,7 +8,7 @@
 <br />
 
 Glad to see you here! <br />
-I’m a backend developer especially Nest JS Framework, but i like flutter and golang too and sometime iam build a game using Unity Engine.
+I’m a backend developer especially Golang, but i like flutter and js too.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers and optimization code.
 

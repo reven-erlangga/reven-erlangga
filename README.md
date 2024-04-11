@@ -10,7 +10,9 @@
 Glad to see you here! <br />
 I’m a backend developer especially Golang, but i like flutter and js too.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers and optimization code.
+I specialize in building robust backends that do all the heavy lifting for your app or website. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers and optimization code. <br />
+
+Try to learn about blockchain 😎.
 
 <br />
 

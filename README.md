@@ -26,6 +26,11 @@ Try to learn about blockchain 😎.
 
  <br />
 
+## 💻 Coding:
+[![HackerRank](https://img.shields.io/badge/Hackerrank-%60ED64.svg?logoColor=white)](https://www.hackerrank.com/profile/reven_erlangga)
+ 
+ <br />
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reven.ferlian) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reven.erlangga) 
@@ -42,8 +47,7 @@ Try to learn about blockchain 😎.
  <br />
 
 ## 💻 Tech Stack:
-#### Programming Language
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+#### Programming Language 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -58,7 +62,7 @@ Try to learn about blockchain 😎.
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vue JS](https://img.shields.io/badge/Vue.js-%2320232a.svg?style=for-the-badge&logo=Vue.js&logoColor=%2361DAFB) 
 #### Framework CSS
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -121,7 +125,7 @@ Try to learn about blockchain 😎.
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/reven_erlangga) 
-[![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/reven-erlangga/tip) 
+[![Trakteer](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/reven-erlangga/tip) 
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/revenerlangga) 
 
 
